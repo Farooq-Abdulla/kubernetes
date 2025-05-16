@@ -1,8 +1,6 @@
 name: Medium | Update README with Kubernetes Blogs
 
 on:
-  schedule:
-    - cron: '0 4 * * *'  # Runs daily at 4 AM UTC
   workflow_dispatch:
 
 jobs:

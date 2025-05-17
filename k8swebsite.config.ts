@@ -86,7 +86,7 @@ const config: Config = {
         highlightResult: true, // Highlight search results
         maxHits: 10, // Show up to 10 results
       },
-    ],
+    ]
   ],
 
   themeConfig: {
@@ -98,7 +98,6 @@ const config: Config = {
       textColor: '#091E42', // Text color
       isCloseable: true, // Allow users to close the bar
     },
-    image: 'img/docusaurus-social-card.jpg',
     navbar: {
       title: 'Kubernetes Guides', // Keep the title as is
       logo: {
